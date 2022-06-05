@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Flutter** and **Upcoming Machine learning Techniques**
 
-- 💬 Ask me about **AWS , ML/AI**
+- 💬 Ask me about **Anything related to ML/AI specially Computer Vision and Image recognition**
 
 - 📫 How to reach me **singh.sanjeev0931@gmail.com** **sanjeev.btech.cs19@iiitranchi.ac.in**
 
