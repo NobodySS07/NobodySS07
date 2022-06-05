@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on **Object Detection using YoloV5**
 
-- 🌱 I’m currently learning **Flutter and Upcoming Machine learning Techniques**
+- 🌱 I’m currently learning **Flutter** and **Upcoming Machine learning Techniques**
 
 - 💬 Ask me about **AWS , ML/AI**
 
-- 📫 How to reach me **singh.sanjeev0931@gmail.com**
+- 📫 How to reach me **singh.sanjeev0931@gmail.com** **sanjeev.btech.cs19@iiitranchi.ac.in**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1ayAwz2sTUooo7CVpHhqKH5ACK6e8fLje/view?usp=sharing](https://drive.google.com/file/d/1ayAwz2sTUooo7CVpHhqKH5ACK6e8fLje/view?usp=sharing)
 
