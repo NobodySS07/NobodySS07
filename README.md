@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Object Detection using YoloV5**
 
-- 🌱 I’m currently learning **Flutter** and **Upcoming Machine learning Techniques**
+- 🌱 I’m currently learning **Data Structures and Algorithms** and **Upcoming Machine learning Techniques**
 
 - 💬 Ask me about **Anything related to ML/AI specially Computer Vision and Image recognition**
 
