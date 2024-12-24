@@ -13,7 +13,7 @@
   - **Email:** [singh.sanjeev0931@gmail.com](mailto:singh.sanjeev0931@gmail.com) | [sanjeev.btech.cs19@iiitranchi.ac.in](mailto:sanjeev.btech.cs19@iiitranchi.ac.in)
   - **LinkedIn:** [Sanjeev Singh](https://linkedin.com/in/sanjeevsingh225)
 
-- 📄 Know about my experiences: [My Resume]([https://drive.google.com/file/d/1ayAwz2sTUooo7CVpHhqKH5ACK6e8fLje/view?usp=sharing](https://drive.google.com/file/d/1IjJkecu76yacL9uTYqPqXBBmAQ3XZltZ/view?usp=drive_link))
+- 📄 Know about my experiences: [My Resume](https://drive.google.com/file/d/1IjJkecu76yacL9uTYqPqXBBmAQ3XZltZ/view?usp=drive_link)
 
 - ⚡ Hobbies: **I love Photography and Football.**
 
